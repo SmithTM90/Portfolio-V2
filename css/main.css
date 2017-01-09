@@ -1,0 +1,100 @@
+body {
+	margin-top: 2%;
+	background-color: #BDD3DE;
+}
+
+#blurb {
+	font-size: 40px;
+}
+
+#project1 {
+	width: 33%;
+	margin-right: 8px;
+	background-color: #3F5866;
+	color: #F0F0DF;
+}
+
+#project2 {
+	width: 33%;
+	background-color: #FFD938;
+}
+
+#project3 {
+	width: 30%;
+}
+
+#plainText {
+	font-size: 12px;
+}
+
+.icon {
+	margin-top: 15%;
+	width: 100px;
+}
+
+.row {
+	margin-bottom: 8px;
+}
+
+.block {
+	text-align: center;
+}
+
+.socialRow {
+	margin-bottom: 1%;
+}
+
+.projectPreview {
+	width: 100%;
+}
+
+.peerQuote {
+	border: none;
+	background-color: #F0F0DF;
+	padding: inherit;
+	padding-left: 1%;
+  height: 155px;
+}
+
+.icon-block {
+	text-align: center;
+}
+
+.btn-info {
+	color: #444;
+	background-color: #F0F0DF;
+	border: none;
+  border-radius: 0px;
+}
+
+.smallDownload {
+	width: 40px;
+}
+
+.reference {
+	padding-right: 0%;
+	padding-left: 0%;
+}
+
+.plainTextBox {
+	background-color: #2B3A42;
+	color: #F0F0DF;
+	padding-top: 12px;
+	margin-left: 1%;
+	height: 75px;
+	width: 49%;
+	font-size: 32px;
+	text-align: center;
+}
+
+.social-block {
+	background-color: #2B3A42;
+	color: black;
+	padding-top: 1%;
+	margin-left: 1%;
+	height: 75px;
+	width: 49%;
+	font-size: 32px;
+	text-align: center;
+	line-height: 70px;
+}
