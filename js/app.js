@@ -7,15 +7,15 @@ portApp.config(['$routeProvider', '$locationProvider', function($routeProvider, 
     templateUrl: 'views/index.html',
     controller: 'HomeCtrl'
   })
-  .when('/Portfolio-V2/#!/about', {
+  .when('/about', {
     templateUrl: 'views/about.html',
     controller: 'AboutCtrl'
   })
-  .when('/Portfolio-V2/#!/portfolio', {
+  .when('/portfolio', {
   	templateUrl: 'views/portfolio.html',
   	controller: 'PortfolioCtrl'
   })
-  .when('/Portfolio-V2/#!/contact', {
+  .when('/contact', {
     templateUrl: 'views/contact.html',
     controller: 'ContactCtrl'
   })
