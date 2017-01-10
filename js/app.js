@@ -12,7 +12,7 @@ portApp.config(['$routeProvider', '$locationProvider', function($routeProvider, 
     controller: 'AboutCtrl'
   })
   .when('/portfolio', {
-  	templateUrl: 'views/portfolio.html',
+  	templateUrl: '../views/portfolio.html',
   	controller: 'PortfolioCtrl'
   })
   .when('/contact', {

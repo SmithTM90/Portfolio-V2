@@ -3,6 +3,10 @@ body {
 	background-color: #BDD3DE;
 }
 
+#tag-line {
+	padding: 3% 0 3% 0;
+}
+
 #blurb {
 	font-size: 40px;
 }
