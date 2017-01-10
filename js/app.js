@@ -3,19 +3,19 @@ var portApp = angular.module('portApp', ['ngRoute', 'navBar', 'footerBar']);
 portApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
   //define routes
   $routeProvider
-  .when('/', {
+  .when('https://smithtm90.github.io/Portfolio-V2/#!/', {
     templateUrl: 'views/index.html',
     controller: 'HomeCtrl'
   })
-  .when('/Portfolio-V2/#!/about', {
+  .when('https://smithtm90.github.io/Portfolio-V2/#!/about', {
     templateUrl: 'views/about.html',
     controller: 'AboutCtrl'
   })
-  .when('/Portfolio-V2/#!/portfolio', {
+  .when('https://smithtm90.github.io/Portfolio-V2/#!/portfolio', {
   	templateUrl: 'views/portfolio.html',
   	controller: 'PortfolioCtrl'
   })
-  .when('/Portfolio-V2/#!/contact', {
+  .when('https://smithtm90.github.io/Portfolio-V2/#!/contact', {
     templateUrl: 'views/contact.html',
     controller: 'ContactCtrl'
   })
