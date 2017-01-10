@@ -1,4 +1,4 @@
-var portApp = angular.module('portApp', ['ngRoute', 'navBar', 'footerBar', 'mixItUp']);
+var portApp = angular.module('portApp', ['ngRoute', 'navBar', 'footerBar']);
 
 portApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
   //define routes
@@ -12,7 +12,7 @@ portApp.config(['$routeProvider', '$locationProvider', function($routeProvider, 
     controller: 'AboutCtrl'
   })
   .when('/portfolio', {
-  	templateUrl: '../views/portfolio.html',
+  	templateUrl: 'views/portfolio.html',
   	controller: 'PortfolioCtrl'
   })
   .when('/contact', {

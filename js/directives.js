@@ -12,18 +12,18 @@ angular.module('footerBar', []).directive('footerbar', function() {
 	}
 });
 
-angular.module('mixItUp', []).directive('mixitup', function () {
-	var directive = {
-		restrict: 'A',
-		link: link
-	};
+// angular.module('mixItUp', []).directive('mixitup', function () {
+// 	var directive = {
+// 		restrict: 'A',
+// 		link: link
+// 	};
 
-  	return directive;
+//   	return directive;
 
-  	function link (scope, element, attrs) {
-	    $(element).mixItUp();
-	    element.on('$destroy', function (){
-	    	$(element).mixItUp('destroy', true);
-	    });
-	};
-});
+//   	function link (scope, element, attrs) {
+// 	    $(element).mixItUp();
+// 	    element.on('$destroy', function (){
+// 	    	$(element).mixItUp('destroy', true);
+// 	    });
+// 	};
+// });
