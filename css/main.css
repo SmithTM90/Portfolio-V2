@@ -1,6 +1,7 @@
 body {
 	margin-top: 2%;
 	background-color: #BDD3DE;
+	font-family: 'Neuton', serif;
 }
 
 hr {
@@ -123,9 +124,11 @@ hr {
 }
 
 #travis {
+	font-family: 'Eczar', serif;
 	color: #FFD938;
 }
 
 #seattle {
+	font-family: 'Eczar', serif;
 	color: #4ea701;
 }
