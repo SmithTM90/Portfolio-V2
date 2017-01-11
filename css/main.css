@@ -81,6 +81,10 @@ hr {
 	text-align: center;
 }
 
+.navbar-header {
+	float: right;
+}
+
 
 #tag-line {
 	padding: 3% 0 3% 0;
@@ -111,10 +115,6 @@ hr {
 #plainTextLabel {
 	font-size: 12px;
 	color: #F0F0DF;
-}
-
-#my-name {
-	float: right;
 }
 
 #travis {
