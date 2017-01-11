@@ -12,6 +12,7 @@ body {
 }
 
 #project1 {
+	height: 260px;
 	width: 33%;
 	margin-right: 8px;
 	background-color: #3F5866;
@@ -19,6 +20,7 @@ body {
 }
 
 #project2 {
+	height: 260px;
 	width: 33%;
 	background-color: #FFD938;
 }
@@ -57,7 +59,7 @@ body {
 	background-color: #F0F0DF;
 	padding: inherit;
 	padding-left: 1%;
-  height: 155px;
+  height: 215px;
 }
 
 .icon-block {
@@ -85,7 +87,7 @@ body {
 	color: #F0F0DF;
 	padding-top: 12px;
 	margin-left: 1%;
-	height: 75px;
+	height: 128px;
 	width: 49%;
 	font-size: 32px;
 	text-align: center;
@@ -96,7 +98,7 @@ body {
 	color: black;
 	padding-top: 1%;
 	margin-left: 1%;
-	height: 75px;
+	height: 128px;
 	width: 49%;
 	font-size: 32px;
 	text-align: center;
