@@ -3,34 +3,8 @@ body {
 	background-color: #BDD3DE;
 }
 
-#tag-line {
-	padding: 3% 0 3% 0;
-}
-
-#blurb {
-	font-size: 40px;
-}
-
-#project1 {
-	height: 260px;
-	width: 33%;
-	margin-right: 8px;
-	background-color: #3F5866;
-	color: #F0F0DF;
-}
-
-#project2 {
-	height: 260px;
-	width: 33%;
-	background-color: #FFD938;
-}
-
-#project3 {
-	width: 30%;
-}
-
-#plainTextLabel {
-	font-size: 12px;
+hr {
+	border-color: #222
 }
 
 .icon {
@@ -79,7 +53,7 @@ body {
 	padding-left: 0%;
 }
 
-.plainTextBox {
+/*.plainTextBox {
 	background-color: #2B3A42;
 	color: #F0F0DF;
 	padding-top: 12px;
@@ -89,7 +63,7 @@ body {
 	font-size: 40px;
 	text-align: center;
 	line-height: 120px;
-}
+}*/
 
 .social-block {
 	background-color: #2B3A42;
@@ -105,4 +79,48 @@ body {
 
 .projectTitle {
 	text-align: center;
+}
+
+
+#tag-line {
+	padding: 3% 0 3% 0;
+}
+
+#blurb {
+	font-size: 40px;
+}
+
+#project1 {
+	height: 260px;
+	width: 33%;
+	margin-right: 8px;
+	background-color: #3F5866;
+	color: #F0F0DF;
+}
+
+#project2 {
+	height: 260px;
+	width: 33%;
+	background-color: #FFD938;
+}
+
+#project3 {
+	width: 30%;
+}
+
+#plainTextLabel {
+	font-size: 12px;
+	color: #F0F0DF;
+}
+
+#my-name {
+	float: right;
+}
+
+#travis {
+	color: #FFD938;
+}
+
+#seattle {
+	color: #4ea701;
 }
