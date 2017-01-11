@@ -67,14 +67,11 @@ body {
 }
 
 .btn-info {
+	width: 140px;
 	color: #444;
 	background-color: #F0F0DF;
 	border: none;
   border-radius: 0px;
-}
-
-.smallDownload {
-	width: 40px;
 }
 
 .reference {
@@ -89,7 +86,7 @@ body {
 	margin-left: 1%;
 	height: 128px;
 	width: 49%;
-	font-size: 32px;
+	font-size: 40px;
 	text-align: center;
 	line-height: 120px;
 }
@@ -101,7 +98,7 @@ body {
 	margin-left: 1%;
 	height: 128px;
 	width: 49%;
-	font-size: 32px;
+	font-size: 40px;
 	text-align: center;
 	line-height: 120px;
 }
