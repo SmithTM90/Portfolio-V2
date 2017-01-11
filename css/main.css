@@ -117,6 +117,10 @@ hr {
 	color: #F0F0DF;
 }
 
+#my-name {
+	font-size: 26px;
+}
+
 #travis {
 	color: #FFD938;
 }
