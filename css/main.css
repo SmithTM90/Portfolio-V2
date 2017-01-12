@@ -54,18 +54,6 @@ hr {
 	padding-left: 0%;
 }
 
-/*.plainTextBox {
-	background-color: #2B3A42;
-	color: #F0F0DF;
-	padding-top: 12px;
-	margin-left: 1%;
-	height: 128px;
-	width: 49%;
-	font-size: 40px;
-	text-align: center;
-	line-height: 120px;
-}*/
-
 .social-block {
 	background-color: #2B3A42;
 	color: black;
@@ -80,6 +68,10 @@ hr {
 
 .projectTitle {
 	text-align: center;
+}
+
+.navbar {
+	margin-bottom: 0px;
 }
 
 .navbar-header {
@@ -134,5 +126,5 @@ hr {
 }
 
 #secondSentance {
-	margin-left: 3%;
+	margin-left: 22%;
 }
