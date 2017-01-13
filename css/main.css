@@ -8,6 +8,10 @@ hr {
 	border-color: #222
 }
 
+h3 {
+	margin-top: 3px;
+}
+
 .icon {
 	margin-top: 15%;
 	width: 80px;
@@ -85,8 +89,9 @@ hr {
 }
 
 #efficiency {
+	font-size: 18px;
 	font-weight: bold;
-	color: #BDD3DE;
+	color: #4ea701;
 }
 
 #tag-line {
@@ -106,7 +111,7 @@ hr {
 }
 
 #project2 {
-	height: 260px;
+	height: 270px;
 	width: 33%;
 	background-color: #FFD938;
 }
