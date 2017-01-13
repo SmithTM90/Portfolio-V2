@@ -88,6 +88,10 @@ h3 {
 	float: right;
 }
 
+.fa-file-text {
+	margin-top: 40px;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
