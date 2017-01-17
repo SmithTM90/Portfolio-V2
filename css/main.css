@@ -19,7 +19,7 @@ i {
 }
 
 i:hover {
-	color: #B3C49B;
+	color: #AEBF96;
 }
 
 iframe {
@@ -65,7 +65,7 @@ a:hover {
 
 .peerQuote {
 	border: none;
-	background-color: #B3C49B;
+	background-color: #AEBF96;
 	padding: inherit;
 	padding-left: 1%;
   height: 215px;
@@ -82,7 +82,7 @@ a:hover {
 .btn-info {
 	width: 140px;
 	color: #444;
-	background-color: #B3C49B;
+	background-color: #AEBF96;
 	border: none;
   border-radius: 0px;
 }
@@ -161,7 +161,7 @@ a:hover {
 	width: 33%;
 	margin-right: 8px;
 	background-color: #3F4033;
-	color: #B3C49B;
+	color: #AEBF96;
 }
 
 #project2 {
@@ -176,7 +176,7 @@ a:hover {
 
 #plainTextLabel {
 	font-size: 12px;
-	color: #B3C49B;
+	color: #AEBF96;
 }
 
 #my-name {
