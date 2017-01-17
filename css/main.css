@@ -39,6 +39,7 @@ a:hover {
 }
 
 .icon {
+	font-size: 16px;
 	margin-top: 15%;
 	width: 80px;
 }
@@ -142,9 +143,9 @@ a:hover {
 	text-decoration: none;
 }
 
-.contact-icon {
+/*.contact-icon {
 	font-size: 14px;
-}
+}*/
 
 #efficiency {
 	font-size: 18px;
