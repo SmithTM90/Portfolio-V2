@@ -142,6 +142,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.contact-icon {
+	font-size: 14px;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
