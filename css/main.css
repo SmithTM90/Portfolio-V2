@@ -18,6 +18,10 @@ i {
 	color: #3F5478;
 }
 
+i:hover {
+	color: #B3C49B;
+}
+
 iframe {
 	width: 850px;
 	height: 1135px;
@@ -53,6 +57,10 @@ a:hover {
 
 .projectPreview {
 	width: 100%;
+}
+
+.projectPreview:hover {
+	opacity: 0.8;
 }
 
 .peerQuote {
