@@ -12,6 +12,11 @@ h3 {
 	margin-top: 3px;
 }
 
+i {
+	text-decoration: none;
+	color: #3F5478;
+}
+
 .icon {
 	margin-top: 15%;
 	width: 80px;
