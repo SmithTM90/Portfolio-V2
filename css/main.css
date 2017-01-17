@@ -110,6 +110,11 @@ iframe {
 	margin-top: 20px;
 }
 
+.contact-link {
+	float: right;
+	text-decoration: none;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
