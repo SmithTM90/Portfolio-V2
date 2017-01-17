@@ -19,6 +19,9 @@ i {
 }
 
 iframe {
+	width: 850px;
+	height: 1135px;
+	border: none;
 	overflow: hidden;
 }
 
