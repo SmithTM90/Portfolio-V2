@@ -98,6 +98,11 @@ i {
 	margin-top: 40px;
 }
 
+.resumeDiv {
+	padding-left: 5%;
+	margin-top: 20px;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
@@ -151,9 +156,4 @@ i {
 
 #secondSentance {
 	margin-left: 22%;
-}
-
-#resumeDiv {
-	padding-left: 5%;
-	margin-top: 20px;
 }
