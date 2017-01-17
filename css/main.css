@@ -143,9 +143,9 @@ a:hover {
 	text-decoration: none;
 }
 
-/*.contact-icon {
-	font-size: 14px;
-}*/
+.form-label {
+	font-size: 16px;
+}
 
 #efficiency {
 	font-size: 18px;
