@@ -30,6 +30,10 @@ ul {
     list-style-type: none;
 }
 
+a:hover {
+	text-decoration: none;
+}
+
 .icon {
 	margin-top: 15%;
 	width: 80px;
@@ -73,6 +77,10 @@ ul {
 	background-color: #B3C49B;
 	border: none;
   border-radius: 0px;
+}
+
+.btn-info:hover {
+	background-color: #3F5478;;
 }
 
 .reference {
