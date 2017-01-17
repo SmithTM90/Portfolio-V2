@@ -18,6 +18,10 @@ i {
 	color: #3F5478;
 }
 
+iframe {
+	overflow: hidden;
+}
+
 .icon {
 	margin-top: 15%;
 	width: 80px;
@@ -99,7 +103,7 @@ i {
 }
 
 .resumeDiv {
-	padding-left: 5%;
+	padding-left: 6.5%;
 	margin-top: 20px;
 }
 
