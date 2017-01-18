@@ -216,6 +216,10 @@ legend {
 	margin-left: 22%;
 }
 
+#reference {
+	background-color: #9dae85;
+}
+
 #submit-button {
 	margin-top: 10px;
 }
