@@ -38,6 +38,10 @@ a:hover {
 	text-decoration: none;
 }
 
+legend {
+	color: #AEBF96;
+}
+
 .icon {
 	font-size: 16px;
 	margin-top: 15%;
@@ -149,6 +153,7 @@ a:hover {
 
 .emailForm {
 	background-color: #2B302E;
+	color: #AEBF96;
 }
 
 .portfolioProject {
@@ -236,11 +241,11 @@ a:hover {
 }
 
 #pedalPals {
-	background-color: #3F5478;
+	background-color: #3F4033;
 	margin-right: 2.5px;
 }
 
 #twitterProject {
-	background-color: #3F4033;
+	background-color: #3F5478;
 	margin-left: 2.5px;
 }
