@@ -147,6 +147,15 @@ a:hover {
 	font-size: 16px;
 }
 
+.emailForm {
+	background-color: #2B302E;
+}
+
+.portfolioProject {
+	margin-left: 8%;
+	padding-top: 20px;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
@@ -204,4 +213,34 @@ a:hover {
 
 #submit-button {
 	margin-top: 10px;
+}
+
+#yammerings {
+	background-color: #3F4033;
+	margin-right: 2.5px;
+}
+
+#randomQuote {
+	background-color: #3F5478;
+	margin-left: 2.5px;
+}
+
+#twitchProject {
+	background-color: #AEBF96;
+	margin-right: 2.5px;
+}
+
+#yahtzeeProject {
+	background-color: #2B302E;
+	margin-left: 2.5px;
+}
+
+#pedalPals {
+	background-color: #3F5478;
+	margin-right: 2.5px;
+}
+
+#twitterProject {
+	background-color: #3F4033;
+	margin-left: 2.5px;
 }
