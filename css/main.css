@@ -210,6 +210,7 @@ legend {
 #travis {
 	font-family: 'Eczar', serif;
 	color: #3F5478;
+	animation-delay: 0.5s;
 }
 
 #seattle {
@@ -219,6 +220,7 @@ legend {
 
 #secondSentance {
 	margin-left: 22%;
+	animation-delay: 1s;
 }
 
 #reference {
