@@ -155,6 +155,10 @@ input {
 	font-size: 16px;
 }
 
+.form-control {
+	border-radius: 0%;
+}
+
 .emailForm {
 	margin-top: 2%;
 	background-color: #2B302E;
@@ -233,7 +237,7 @@ input {
 }
 
 #resumeFrame {
-	animation-delay: 0.5s;
+	animation-delay: 1s;
 }
 
 #submit-button {
