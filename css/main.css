@@ -228,6 +228,10 @@ legend {
 	color: #eee;
 }
 
+#resumeFrame {
+	animation-delay: 0.5s;
+}
+
 #submit-button {
 	margin-top: 10px;
 }
