@@ -73,6 +73,7 @@ input {
 }
 
 .peerQuote {
+	animation-duration: 0.5s;
 	border: none;
 	background-color: #AEBF96;
 	padding: inherit;
