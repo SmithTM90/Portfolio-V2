@@ -152,8 +152,13 @@ legend {
 }
 
 .emailForm {
+	margin-top: 2%
 	background-color: #2B302E;
 	color: #AEBF96;
+}
+
+.contactBlock {
+	margin-top: 2%
 }
 
 .portfolioProject {
@@ -218,7 +223,7 @@ legend {
 
 #reference {
 	background-color: #2B302E;
-	color: #EEF5CA;
+	color: #eee;
 }
 
 #submit-button {
