@@ -282,10 +282,6 @@ input {
 	opacity: 0;
 }
 
-.portfolio-link {
-	position: absolute;
-}
-
 .portfolio-link p {
     position: absolute;
     top: 0;
