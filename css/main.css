@@ -279,32 +279,38 @@ input {
 }
 
 #yammeringsDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
 #quotesDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
 #twitchDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
 #yahtzeeDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
 #pedalDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
 #twitterDescription {
-	padding: 5px;
+	padding: 10px;
+	text-align: center;
 	opacity: 0;
 }
 
@@ -315,32 +321,32 @@ input {
     right: 0;
     bottom: 0;
     margin: 0;
-    background: #333;
-    color: #fff;
+    background: #2B302E;
+    color: #eee;
     opacity:0;
-    transition:1s;
+    transition:0.75s;
 }
 
 .portfolio-link:hover #yammeringsDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 .portfolio-link:hover #quotesDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 .portfolio-link:hover #twitchDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 .portfolio-link:hover #yahtzeeDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 .portfolio-link:hover #pedalDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
 
 .portfolio-link:hover #twitterDescription {
-	opacity: 0.8;
+	opacity: 0.9;
 }
