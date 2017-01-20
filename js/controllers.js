@@ -3,7 +3,7 @@ portApp.controller('HomeCtrl', function($scope){
 
 		var aboutFirst = $('#aboutFirst').text();
 		var aboutSecond = $('#aboutSecond').text();
-		var skillList = $('#skillList').text();
+		var skillList = $('#skillList');
 
 		skillList.hide();
 
