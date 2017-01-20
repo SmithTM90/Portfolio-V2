@@ -3,14 +3,14 @@ portApp.controller('HomeCtrl', function($scope){
 
 		var aboutFirst = $('#aboutFirst').text();
 		var aboutSecond = $('#aboutSecond').text();
-		var skillList = 'My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile'
+		// 'My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile'
 
 		$('.peerQuote').mouseenter( function() {
-			skillList.fadeIn();
+			$('#skillList').fadeIn();
 		});
 
 		$('.peerQuote').mouseleave(function() {
-			aboutFirst.fadeIn();
+			$(this).html(aboutFirst);
 		})
 
 	});
