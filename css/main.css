@@ -282,7 +282,7 @@ input {
 	opacity: 0;
 }
 
-.portfolio-link p {
+.portfolio-link #yammeringsDescription {
     position: absolute;
     top: 0;
     left: 0;
@@ -295,6 +295,6 @@ input {
     transition:1s;
 }
 
-.portfolio-link:hover p {
+.portfolio-link:hover #yammeringsDescription {
 	opacity: 0.75;
 }
