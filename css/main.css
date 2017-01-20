@@ -282,7 +282,27 @@ input {
 	opacity: 0;
 }
 
-.portfolio-link #yammeringsDescription {
+#quotesDescription {
+	opacity: 0;
+}
+
+#twitchDescription {
+	opacity: 0;
+}
+
+#yahtzeeDescription {
+	opacity: 0;
+}
+
+#pedalDescription {
+	opacity: 0;
+}
+
+#twitterDescription {
+	opacity: 0;
+}
+
+.portfolio-link p {
     position: absolute;
     top: 0;
     left: 0;
@@ -296,5 +316,25 @@ input {
 }
 
 .portfolio-link:hover #yammeringsDescription {
+	opacity: 0.75;
+}
+
+.portfolio-link:hover #quotesDescription {
+	opacity: 0.75;
+}
+
+.portfolio-link:hover #twitchDescription {
+	opacity: 0.75;
+}
+
+.portfolio-link:hover #yahtzeeDescription {
+	opacity: 0.75;
+}
+
+.portfolio-link:hover #pedalDescription {
+	opacity: 0.75;
+}
+
+.portfolio-link:hover #twitterDescription {
 	opacity: 0.75;
 }
