@@ -281,36 +281,42 @@ input {
 #yammeringsDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
 #quotesDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
 #twitchDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
 #yahtzeeDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
 #pedalDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
 #twitterDescription {
 	padding: 10px;
 	text-align: center;
+	font-size: 16px;
 	opacity: 0;
 }
 
