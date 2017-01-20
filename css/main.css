@@ -277,12 +277,3 @@ input {
 	background-color: #3F5478;
 	margin-left: 2.5px;
 }
-
-#yammeringsDescription {
-	opacity: 0;
-}
-
-a:hover p {
-	opacity: 0.75;
-}
-
