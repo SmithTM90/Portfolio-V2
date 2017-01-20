@@ -233,10 +233,6 @@ input {
 	animation-delay: 1.5s;
 }
 
-#skillList {
-	display: none;
-}
-
 #reference {
 	width: 100%;
 	margin-left: 8px;
