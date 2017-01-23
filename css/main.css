@@ -176,6 +176,13 @@ input {
 	padding-top: 20px;
 }
 
+#blurb2 {
+	width: 100%;
+	margin-left: 8px;
+	background-color: #2B302E;
+	color: #eee;
+}
+
 #efficiency {
 	font-size: 18px;
 	font-weight: bold;
@@ -233,7 +240,7 @@ input {
 	animation-delay: 1.5s;
 }
 
-.reference {
+#reference {
 	width: 100%;
 	margin-left: 8px;
 	background-color: #2B302E;
