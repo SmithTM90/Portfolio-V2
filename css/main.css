@@ -233,7 +233,7 @@ input {
 	animation-delay: 1.5s;
 }
 
-#reference {
+.reference {
 	width: 100%;
 	margin-left: 8px;
 	background-color: #2B302E;
