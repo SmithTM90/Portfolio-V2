@@ -46,6 +46,12 @@ input {
 	border-radius: 0%;
 }
 
+@media (min-width: 1023px) {
+		.reference {
+		width: 33%;
+	}
+}
+
 .icon {
 	font-size: 16px;
 	margin-top: 15%;
@@ -106,13 +112,6 @@ input {
 		padding-right: 0%;
 		padding-left: 0%;
 	}
-
-@media (min-width: 1023px) {
-		.reference {
-		width: 33%;
-	}
-}
-
 
 .social-block {
 	background-color: #2B302E;
