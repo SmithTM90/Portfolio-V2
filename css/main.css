@@ -375,6 +375,14 @@ input {
 	.reference {
 		font-size: 17px;
 	}
+
+	#project1 {
+		height: 335px;
+	}
+
+	#project2 {
+		height: 335px;
+	}
 }
 
 @media (min-width: 1200px) {
