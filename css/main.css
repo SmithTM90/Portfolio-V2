@@ -73,6 +73,14 @@ input {
 		margin-left: 8px;
 	}
 
+	#linkedin-block {
+		margin-left: 1%;
+	}
+
+	#email-block {
+		margin-left: 1%;
+	}
+
 }
 
 .icon {
@@ -262,8 +270,16 @@ input {
 	animation-delay: 1.5s;
 }
 
+#linkedin-block {
+		margin-left: 1%;
+	}
+
+	#email-block {
+		margin-left: 0%;
+	}
+
 #resumeFrame {
-	animation-delay: 1s;
+	animation-delay: 0%;
 }
 
 #submit-button {
