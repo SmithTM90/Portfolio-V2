@@ -78,7 +78,7 @@ input {
 	background-color: #AEBF96;
 	padding: inherit;
 	padding-left: 1%;
-  height: 220px;
+  height: 120px;
 }
 
 .icon-block {
@@ -376,6 +376,14 @@ input {
 		font-size: 17px;
 	}
 
+	.projectPreview {
+		height: 200px;
+	}
+
+	.peerQuote {
+		height: 150px;
+	}
+
 	#project1 {
 		height: 335px;
 	}
@@ -396,6 +404,10 @@ input {
 
 	.social-container {
 		margin-left: 0px;
+	}
+
+	.peerQuote {
+		height: 220px;
 	}
 
 	#project1 {
