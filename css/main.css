@@ -46,54 +46,6 @@ input {
 	border-radius: 0%;
 }
 
-@media (min-width: 768px) {
-	.reference {
-		font-size: 17px;
-	}
-}
-
-@media (min-width: 1023px) {
-	.reference {
-		width: 33%;
-		padding-right: 0%;
-		padding-left: 0%;
-		font-size: 17px;
-		text-align: left;
-	}
-
-	.social-container {
-		margin-left: 0px;
-	}
-
-	#project1 {
-		height: 270px;
-		width: 33%;
-		margin-right: 8px;
-	}
-
-	#project2 {
-		height: 270px;
-		width: 33%;
-	}
-
-	#blurb {
-		font-size: 40px;
-	}
-	
-	#blurb2 {
-		margin-left: 8px;
-	}
-
-	#linkedin-block {
-		margin-left: 1%;
-	}
-
-	#email-block {
-		margin-left: 1%;
-	}
-
-}
-
 .icon {
 	font-size: 16px;
 	margin-top: 15%;
@@ -417,4 +369,52 @@ input {
 
 .portfolio-link:hover #twitterDescription {
 	opacity: 0.9;
+}
+
+@media (min-width: 768px) {
+	.reference {
+		font-size: 17px;
+	}
+}
+
+@media (min-width: 1023px) {
+	.reference {
+		width: 33%;
+		padding-right: 0%;
+		padding-left: 0%;
+		font-size: 17px;
+		text-align: left;
+	}
+
+	.social-container {
+		margin-left: 0px;
+	}
+
+	#project1 {
+		height: 270px;
+		width: 33%;
+		margin-right: 8px;
+	}
+
+	#project2 {
+		height: 270px;
+		width: 33%;
+	}
+
+	#blurb {
+		font-size: 40px;
+	}
+	
+	#blurb2 {
+		margin-left: 8px;
+	}
+
+	#linkedin-block {
+		margin-left: 1%;
+	}
+
+	#email-block {
+		margin-left: 1%;
+	}
+
 }
