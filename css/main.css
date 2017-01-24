@@ -46,6 +46,12 @@ input {
 	border-radius: 0%;
 }
 
+@media (min-width: 768px) {
+	.reference {
+		font-size: 17px;
+	}
+}
+
 @media (min-width: 1023px) {
 	.reference {
 		width: 33%;
@@ -54,6 +60,11 @@ input {
 		font-size: 17px;
 		text-align: left;
 	}
+
+	.social-container {
+		margin-left: 0px;
+	}
+
 	#project1 {
 		height: 270px;
 		width: 33%;
@@ -142,6 +153,10 @@ input {
 		font-size: 14px;
 		text-align: center;
 	}
+
+.social-container {
+	margin-left: 1.75px;
+}
 
 .social-block {
 	background-color: #2B302E;
