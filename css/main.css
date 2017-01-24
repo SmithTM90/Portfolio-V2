@@ -47,7 +47,20 @@ input {
 }
 
 @media (min-width: 1023px) {
-		.reference {
+	.reference {
+		width: 33%;
+		padding-right: 0%;
+		padding-left: 0%;
+		font-size: 17px;
+	}
+	#project1 {
+		height: 270px;
+		width: 33%;
+		margin-right: 8px;
+	}
+
+	#project2 {
+		height: 270px;
 		width: 33%;
 	}
 }
@@ -108,9 +121,7 @@ input {
 }
 
 .reference {
-		font-size: 17px;
-		padding-right: 0%;
-		padding-left: 0%;
+		font-size: 14px;
 	}
 
 .social-block {
@@ -204,16 +215,16 @@ input {
 }
 
 #project1 {
-	height: 270px;
+	/*height: 270px;
 	width: 33%;
-	margin-right: 8px;
+	margin-right: 8px;*/
 	background-color: #3F4033;
 	color: #AEBF96;
 }
 
 #project2 {
-	height: 270px;
-	width: 33%;
+	/*height: 270px;
+	width: 33%;*/
 	background-color: #3F5478;
 }
 
