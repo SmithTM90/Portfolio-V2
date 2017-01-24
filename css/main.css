@@ -102,11 +102,17 @@ input {
 }
 
 .reference {
-	width: 33%;
-	font-size: 17px;
-	padding-right: 0%;
-	padding-left: 0%;
+		font-size: 17px;
+		padding-right: 0%;
+		padding-left: 0%;
+	}
+
+@media (min-width: 1023px) {
+		.reference {
+		width: 33%;
+	}
 }
+
 
 .social-block {
 	background-color: #2B302E;
