@@ -147,7 +147,7 @@ input {
 	background-color: #2B302E;
 	color: black;
 	padding-top: 1%;
-	margin-left: 1%;
+	/*margin-left: 1%;*/
 	height: 133px;
 	width: 49%;
 	font-size: 40px;
@@ -271,12 +271,20 @@ input {
 }
 
 #linkedin-block {
-		margin-left: 1%;
-	}
+	margin-left: 1%;
+}
 
-	#email-block {
-		margin-left: 0%;
-	}
+#email-block {
+	margin-left: 0%;
+}
+
+#resume-block {
+	margin-left: 1%;
+}
+
+#github-block {
+	margin-left: 1%;
+}
 
 #resumeFrame {
 	animation-delay: 0%;
