@@ -109,6 +109,11 @@ input {
 	margin-left: 1.75px;
 }
 
+.social-row {
+	margin-left: -0.5%
+	margin-right: -0.5%
+}
+
 .social-block {
 	background-color: #2B302E;
 	color: black;
