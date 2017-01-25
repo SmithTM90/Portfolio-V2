@@ -382,7 +382,7 @@ input {
 
 @media (min-width: 768px) {
 	.reference {
-		width: 33%;
+		width: 50%;
 	}
 
 	.projectPreview {
@@ -398,10 +398,12 @@ input {
 	}
 
 	#blurb1 {
+		padding: 3px;
 		height: 290px;
 	}
 
 	#blurb2 {
+		padding: 3px;
 		height: 290px;
 	}
 
@@ -469,4 +471,14 @@ input {
 		margin-left: 1%;
 	}
 
+}
+
+@media (min-width: 1400px) {
+	#blurb1 {
+		height: 225px;
+	}
+
+	#blurb2 {
+		height: 225px;
+	}
 }
