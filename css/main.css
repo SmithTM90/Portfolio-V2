@@ -175,6 +175,7 @@ input {
 .portfolioProject {
 	margin-left: 8%;
 	padding-top: 20px;
+	height: 150px;
 }
 
 #blurb1 {
@@ -383,6 +384,10 @@ input {
 		height: 200px;
 	}
 
+	.portfolioProject {
+		height: 265px;
+	}
+
 	.social-container {
 		margin-left: 4px;
 	}
@@ -415,6 +420,10 @@ input {
 
 	.social-container {
 		margin-left: 0px;
+	}
+
+	.portfolioProject {
+		height: 300px;
 	}
 
 	#blurb {
