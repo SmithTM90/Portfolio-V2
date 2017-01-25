@@ -378,6 +378,7 @@ input {
 @media (min-width: 768px) {
 	.reference {
 		font-size: 17px;
+		width: 33%;
 	}
 
 	.projectPreview {
