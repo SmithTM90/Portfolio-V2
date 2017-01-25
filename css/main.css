@@ -452,12 +452,14 @@ input {
 	}
 
 	#blurb1 {
-		height: 220px;
+		font-size: 14px;
+		height: 290px;
 	}
 	
 	#blurb2 {
+		font-size: 14px;
 		margin-left: 8px;
-		height: 220px;
+		height: 290px;
 	}
 
 	#linkedin-block {
