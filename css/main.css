@@ -381,9 +381,9 @@ input {
 }
 
 @media (min-width: 768px) {
-	.reference {
+	/*.reference {
 		width: 50%;
-	}
+	}*/
 
 	.projectPreview {
 		height: 200px;
