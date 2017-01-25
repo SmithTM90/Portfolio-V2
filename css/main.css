@@ -194,7 +194,7 @@ input {
 }
 
 #blurb {
-	font-size: 30px;
+	font-size: 25px;
 }
 
 #project1 {
@@ -383,6 +383,10 @@ input {
 		height: 200px;
 	}
 
+	.social-container {
+		margin-left: 4px;
+	}
+
 	#blurb1 {
 		height: 150px;
 	}
@@ -411,6 +415,10 @@ input {
 
 	.social-container {
 		margin-left: 0px;
+	}
+
+	#blurb {
+		font-size: 35px;
 	}
 
 	#project1 {
