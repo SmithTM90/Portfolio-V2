@@ -385,7 +385,7 @@ input {
 }
 
 @media (max-width: 768px) {
-	#resumeDiv {
+	.resumeDiv {
 		transform: scale(0.85);
     transform-origin: 0 0;
 	}
