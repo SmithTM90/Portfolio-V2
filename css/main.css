@@ -107,6 +107,7 @@ input {
 	}
 
 .social-container {
+	margin-top: 8px;
 	margin-left: 1.75px;
 }
 
@@ -450,6 +451,7 @@ input {
 	}
 
 	.social-container {
+		margin-top: 0px;
 		margin-left: 0px;
 	}
 
