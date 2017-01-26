@@ -405,12 +405,12 @@ input {
 
 	#blurb1 {
 		padding: 3px;
-		height: 205px;
+		/*height: 205px;*/
 	}
 
 	#blurb2 {
 		padding: 3px;
-		height: 205px;
+		/*height: 205px;*/
 	}
 
 	#project1 {
@@ -425,6 +425,14 @@ input {
 @media (min-width: 1024px) {
 	.icon {
 		margin-left: 10%;
+	}
+
+	#blurb1 {
+		height: 205px;
+	}
+
+	#blurb2 {
+		height: 205px;
 	}
 }
 
