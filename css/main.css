@@ -184,6 +184,7 @@ input {
 	height: 150px;
 }
 
+
 #blurb1 {
 	height: 120px
 }
@@ -475,6 +476,10 @@ input {
 }
 
 @media (min-width: 1400px) {
+	#resume {
+		padding-left: 3%;
+	}
+
 	#blurb1 {
 		height: 225px;
 	}
