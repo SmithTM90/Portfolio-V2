@@ -444,12 +444,22 @@ input {
 		margin-left: 10%;
 	}
 
+	.resumeDiv {
+		margin-left: -47px;
+	}
+
 	#blurb1 {
 		height: 205px;
 	}
 
 	#blurb2 {
 		height: 205px;
+	}
+}
+
+@media (max-width: 1024px) {
+	.resumeDiv {
+		margin-left: inherit;
 	}
 }
 
