@@ -457,9 +457,9 @@ input {
 	}
 }
 
-@media (max-width: 1025px) {
+@media (max-width: 1024px) {
 	.resumeDiv {
-		margin-left: inherit;
+		margin-left: -47px;
 	}
 }
 
