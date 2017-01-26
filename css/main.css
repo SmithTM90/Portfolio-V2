@@ -399,6 +399,10 @@ input {
 		margin-left: 4px;
 	}
 
+	.icon {
+		margin-left: 10%;
+	}
+
 	#blurb1 {
 		padding: 3px;
 		height: 205px;
@@ -419,6 +423,10 @@ input {
 }
 
 @media (min-width: 1200px) {
+	.icon {
+		margin-left: 0px;
+	}
+
 	.reference {
 		width: 33%;
 		padding-right: 0%;
