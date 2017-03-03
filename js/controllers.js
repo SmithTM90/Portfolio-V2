@@ -5,7 +5,7 @@ portApp.controller('HomeCtrl', function($scope){
 		var aboutSecond = $('#aboutSecond').text();
 
 		$('#blurb1').mouseenter( function() {
-			$(this).html('My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile');
+			$(this).html('My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, React, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile');
 		});
 
 		$('#blurb1').mouseleave(function() {
@@ -13,7 +13,7 @@ portApp.controller('HomeCtrl', function($scope){
 		});
 
 		$('#blurb2').mouseenter( function() {
-			$(this).html('My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile');
+			$(this).html('My Skills - Languages: Javascript, HTML5, CSS3, Ruby, SQL <br> Frameworks: Angular, React, Node, Express, Rails <br> Libraries: Bootstrap, jQuery, D3 <br> Databases: PostgreSQL, MongoDB, Active Record <br> Design: Animations, Web Fonts, Mobile First Design, Image Manipulation <br> Other: RESTful Routing, Authentication, Authorization, JSON, AJAX, JWT, Sessions, TDD, Agile');
 		});
 
 		$('#blurb2').mouseleave(function() {
