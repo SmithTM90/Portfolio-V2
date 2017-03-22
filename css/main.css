@@ -147,6 +147,7 @@ input {
 }
 
 .resumeDiv {
+	text-align: center;
 	/*padding-left: 7%;*/
 	margin-top: 20px;
 }
@@ -421,16 +422,6 @@ input {
 		transform: scale(0.85);
     transform-origin: 0 0;
 	}*/
-
-	#blurb1 {
-		padding: 3px;
-		/*height: 205px;*/
-	}
-
-	#blurb2 {
-		padding: 3px;
-		/*height: 205px;*/
-	}
 
 	#project1 {
 		height: 335px;
