@@ -389,6 +389,8 @@ input {
 
 #outOfOrder {
 	width: 100%;
+	position: absolute;
+	z-index: 2;
 }
 
 @media (max-width: 768px) {
