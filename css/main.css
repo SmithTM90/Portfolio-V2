@@ -387,6 +387,10 @@ input {
 	opacity: 0.9;
 }
 
+#outOfOrder {
+	width: 100%;
+}
+
 @media (max-width: 768px) {
 	.resumeDiv {
 		height: 925px;
